@@ -1,6 +1,6 @@
 # Chat App 💬
 
-A Full Stack real-time chat application for connecting with friends.
+A real-time chat app for messaging, image sharing, profile management, online status, and customizable themes.
 
 ## 🧑‍💻 Tech Stack
 
